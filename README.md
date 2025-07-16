@@ -1,5 +1,9 @@
 # aico_homelink_test_app
 
+## Usage
+- APK file is included in the releases section.
+- Or you can download the code and run it in Visual Studio Code.
+
 ## Issues
 - UI design is imperfect when comparing to the figma. Notably background colour is not the same shade, the padding is incorrect in places, text styling is not the same, sizing is off and others I might have missed.
 - mp4 file shows a black background.
